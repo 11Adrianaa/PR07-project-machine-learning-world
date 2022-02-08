@@ -30,7 +30,7 @@ Let's start! You will chose a topic and a day, previously assigned during the 3r
  
  2. Self driving cars
  3. GPT-3
- 4. Face recognition
+ 4. Face recognition **Adriana**
  5. Autodrawing
  6. Automatic Art Creation
  7. Brain AI
